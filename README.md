@@ -25,30 +25,8 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AswathYourUsername&show_icons=true&theme=radical" alt="Aswath's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswathYourUsername&theme=radical" alt="GitHub Streak" />
-</p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AswathYourUsername&theme=radical&no-bg=true&no-frame=true&margin-w=5" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AswathYourUsername&theme=react-dark" />
-</p>
-
----
 
 ### ✨ Fun Facts
 
@@ -61,13 +39,13 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/aswathks/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shanthiaswath01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/AswathYourUsername">
+  <a href="https://github.com/Aswathks">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
