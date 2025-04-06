@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Developer | Data Analyst | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;I+love+to+build+cool+things.;Data+Analytics+%7C+ML+%7C+Web+Dev+%7C+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;I+love+to+build+cool+things.;Data+Analytics+%7C+ML+%7C+Web+Dev" alt="Typing SVG" />
 </p>
 
 ---
