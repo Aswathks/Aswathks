@@ -11,9 +11,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a final-year **BE Computer Science** student at **St. Joseph's College of Engineering, Chennai**  
-- 💡 I'm currently working on **Modus Mapping - AI for Law Enforcement**  
+
 - 🚀 I'm exploring **Data Science, Machine Learning, and Full Stack Development**  
-- 🎯 2025 Goal: **Crack a 6.5+ LPA job in IT Sector**  
 - 📫 Reach me at: [shanthiaswath01@gmail.com](mailto:shanthiaswath01@gmail.com)
 
 ---
