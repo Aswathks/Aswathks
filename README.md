@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a final-year **BE Computer Science** student at **St. Joseph's College of Engineering, Chennai**  
+- 🎓 I'm **BE Computer Science** student  
 
 - 🚀 I'm exploring **Data Science, Machine Learning, and Full Stack Development**  
 - 📫 Reach me at: [shanthiaswath01@gmail.com](mailto:shanthiaswath01@gmail.com)
